@@ -1,6 +1,4 @@
 # Text skew correction
 the task is to correct skewness of image contains Textual data \\
-<img src="Project description.jpg.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![alt text](https://github.com/https://github.com/ahbagheri01/Text-skew-correction/blob/main/Project%20description.jpg ?raw=true)
 
